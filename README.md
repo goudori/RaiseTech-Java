@@ -83,10 +83,14 @@
 
 ・Hello-Worldプロジェクト
 →内容:挨拶をコンソールに表示する。
-→詳しくは、こちらのURLをご確認ください。→[https://github.com/goudori/Hello-World.git]
+→詳しくは、こちらのURLをご確認下さい。→[https://github.com/goudori/Hello-World.git]
 
 
 
+
+・Variable-Calculationプロジェクト
+→内容：変数を使って、名前と年齢をコンソールに表示する
+→詳しくは、こちらのURLをご確認下さい。→
 
 
 
