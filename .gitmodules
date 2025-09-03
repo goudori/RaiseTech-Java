@@ -1,3 +1,6 @@
 [submodule "Hello-World"]
 	path = Hello-World
 	url = https://github.com/goudori/Hello-World.git
+[submodule "Variable-Calculation"]
+	path = Variable-Calculation
+	url = https://github.com/goudori/Variable-Calculation.git
