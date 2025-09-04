@@ -4,3 +4,6 @@
 [submodule "Variable-Calculation"]
 	path = Variable-Calculation
 	url = https://github.com/goudori/Variable-Calculation.git
+[submodule "Type-conditional-branch"]
+	path = Type-conditional-branch
+	url = https://github.com/goudori/Type-conditional-branch.git
