@@ -114,6 +114,47 @@
 
 
 
+・Type-conditional-branchプロジェクト
+
+
+→内容:苗字と名前の条件判定プログラムとそれぞれの時間帯を表示する
+
+
+
+
+
+
+→詳しくは、こちらのURLをご確認下さい。→https://github.com/goudori/Type-conditional-branch.git
+
+
+
+
+
+
+
+
+
+
+・StudentListプロジェクト
+→内容：課題1:文字列の生徒名簿リストを作って、繰り返し処理で、文字列が３文字以上ある生徒だけターミナルに表示する
+課題2:文字列の生徒名簿リストを作って、繰り返し処理で、Mapの中のkeyの偶数の要素を削除して、ターミナルに表示する
+
+
+
+
+
+→詳しくは、こちらのURLをご確認下さい。→https://github.com/goudori/StudentList.git
+
+
+
+
+
+
+
+
+
+
+
 
 
 
