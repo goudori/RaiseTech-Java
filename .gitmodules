@@ -7,3 +7,6 @@
 [submodule "Type-conditional-branch"]
 	path = Type-conditional-branch
 	url = https://github.com/goudori/Type-conditional-branch.git
+[submodule "JavaArrayPractice"]
+	path = JavaArrayPractice
+	url = https://github.com/goudori/StudentList.git
