@@ -10,3 +10,6 @@
 [submodule "JavaArrayPractice"]
 	path = JavaArrayPractice
 	url = https://github.com/goudori/StudentList.git
+[submodule "Stream"]
+	path = Stream
+	url = https://github.com/goudori/Stream-api.git
