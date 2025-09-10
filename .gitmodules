@@ -13,3 +13,6 @@
 [submodule "Stream"]
 	path = Stream
 	url = https://github.com/goudori/Stream-api.git
+[submodule "File-Exception"]
+	path = File-Exception
+	url = https://github.com/goudori/File-Exception.git
