@@ -16,3 +16,6 @@
 [submodule "File-Exception"]
 	path = File-Exception
 	url = https://github.com/goudori/File-Exception.git
+[submodule "Animal-Object"]
+	path = Animal-Object
+	url = https://github.com/goudori/Animal-Object.git
